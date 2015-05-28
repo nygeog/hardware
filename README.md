@@ -16,6 +16,6 @@
 | Hotel   | 4 TB Lacie           | Mac OS Extended (Journaled) |  adaptor powered |  | 
 | India   | 2 TB Western Digital | Mac OS Extended (Journaled) |  adaptor powered |  | 
 | Juliett | 2 TB Western Digital | Mac OS Extended (Journaled) |  adaptor powered |  | 
-
+| Kilo    | 1 TB Western Digital | Mac OS Extended (Journaled) |  adaptor powered | formerly WD1TB-1 |
 
 ##Complete:
