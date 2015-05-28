@@ -6,10 +6,10 @@
 
 | Name    |  Type   |  Format | Power | Note |
 |---------|:-------:|--------:|--------:|--------:|
-| Apple   |   |  |  |  | 
-| Bell    |   |  |  |  |  
-| Charlie |   |  |  |  | 
-| Delta   |   |  |  |  | 
+| Apple   | ?500 GB Western Digital Drive   |  |  |  | 
+| Bell    | ?500 GB Western Digital Drive  |  |  |  |  
+| Charlie | ?500 GB G-Drive      |  |  |  | 
+| Delta   | 1 TB G-Drive         | Mac OS Extended (Journaled) |  adaptor powered | Backups from old MacBook - Danny | 
 | Echo    | 1 TB Buffalo         | Mac OS Extended (Journaled) |  bus powered     |  | 
 | Foxtrot | 3 TB Lacie           | Mac OS Extended (Journaled) |  adaptor powered | Time Machine for Mac Pro (1 TB) | 
 | Golf    | 4 TB Lacie           | Mac OS Extended (Journaled) |  adaptor powered | Time Machine for iMac (setup)   | 
