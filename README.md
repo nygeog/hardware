@@ -4,7 +4,7 @@
 
 ###External Drives:
 
-| Name    |  Type   | Color | Format | Power | Note |
+| Name    |  Type   | Format  | Color  | Power   | Note |
 |---------|:-------:|--------:|-------:|--------:|--------:|
 | Apple   | ?500 GB Western Digital Drive  | |  |  |  | 
 | Bell    | ?500 GB Western Digital Drive  | |  |  |  |  
