@@ -17,7 +17,7 @@
 | India   | 2 TB Western Digital | Mac OS Extended (Journaled) | black  |adaptor powered |  | 
 | Juliett | 2 TB Western Digital | Mac OS Extended (Journaled) | black  |adaptor powered |  | 
 | Kilo    | 1 TB Western Digital | Mac OS Extended (Journaled) | black  |adaptor powered | formerly WD1TB-1 - Mac Pro Dropbox external |
-| Lima    | 1 TB Samsung OWC Mercury | Mac OS Extended (Journaled) | clear | bus powered | formerly MacBook HD 2 internal |
+| Lima    | 1 TB Samsung OWC Mercury | Mac OS Extended (Journaled) | clear | bus powered | formerly MacBook HD 2 internal - EMPTY |
 
 
 ##Complete:
